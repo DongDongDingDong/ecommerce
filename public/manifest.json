@@ -3,17 +3,17 @@
   "name": "Create DwinaTech Shopping App",
   "icons": [
     {
-      "src": "DwinaTech-logo.png",
+      "src": "BoredApeCyborg.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "DwinaTech-logo.png",
+      "src": "BoredApeCyborg.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "DwinaTech-logo.png",
+      "src": "BoredApeCyborg.png",
       "type": "image/png",
       "sizes": "512x512"
     }
